@@ -1,4 +1,4 @@
-# Sharks-Attack
+# SHARKS ATTACK
 
 ![tibu](https://github.com/AaronNebreda/Sharks-Attack/blob/main/img/tibu.jpg)
 
