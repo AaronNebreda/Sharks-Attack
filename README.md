@@ -15,6 +15,6 @@ Para este proyecto, comenzará con este desordenado conjunto de datos Shark Atta
 
 ## Reglas
 
-- Solo borrar columnas si len(NaN > 80%
+- Solo borrar columnas si len(NaN) > 80%
 - La tabla resultante debe tener al menos 6.000 filas
 - Mismo tipo  de dato, duplicados, etc..
